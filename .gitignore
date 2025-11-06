@@ -31,3 +31,8 @@ THƯ MỤC CẤU HÌNH CỦA CÁC IDE (Tùy chọn)
 
 .vscode
 .idea
+
+# FRONTEND
+/frontend/node_modules
+/frontend/dist 
+/frontend/build
